@@ -4,11 +4,15 @@
 ## Tool used: Microsoft excel for analysis.
 
 ## Introduction:
+### Problem Statement
+-	How can a data-driven approach be used to optimize sales, improve customer loyalty, and streamline operations by analyzing the coffee shop transactional data?
+  
 ### Objective
-- Find trends of total sales for each coffee type
-- Generate a table or chart highlighting the top 10 customers based on their contribution to total sales.
-- Find the total sales by each country
-- Find the total quantity ordered for each coffee type.
+- Financial Performance Analysis: To calculate and visualize key metrics such as total sales by coffee type and total sales by country to understand the business's financial health and identify top-performing products and markets.
+- Customer Segmentation and Profiling: To identify and analyze the top 10 customers based on their sales contribution. This aims to pinpoint the most valuable customer segments and inform strategies for customer retention and loyalty programs.
+- Operational Efficiency: To determine the total quantity ordered for each coffee type, which is essential for optimizing inventory, managing the supply chain, and forecasting future demand.
+- Interactive Reporting: To create a dynamic and user-friendly dashboard with filtering options for variables like roast type, loyalty card status, year, and size, allowing stakeholders to explore the data and derive their own insights.
+
   
 ### About the data 
 - Orders table has 5 real columns and 11 empty columns. The table contains information on orders. 
