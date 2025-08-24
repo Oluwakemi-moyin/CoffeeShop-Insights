@@ -26,6 +26,8 @@
 - Renamed the tables in power query(table2 to CustomersData, etc)
 - Added Year column to Order table using formula:
   =YEAR([@[Order Date]])
+- Added Month column to Order table using formula: 
+  =MONTH([@[Order Date]])
 - Created relationships: orders table to customers table(using customer ID), orders table to products table(using Product ID) and products table to coffee type table (renamed the sheets1 table to coffee type)(used coffee type - type)
 - Created total sales calculated measure in the data model using formula: 
   Total Sales:=SUMX(OrderData,OrderData[Quantity/pack]* RELATED(ProductsData[Unit Price]))
