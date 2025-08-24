@@ -1,4 +1,4 @@
-# The Daily Grind Coffee Shop-Insights
+# The Daily Grind Coffee Shop Analysis
 ## An analysis into the sales and customer patronage level for The Daily Grind Coffee shop from Years 2019 to 2022
 
 ## Tool used: Microsoft excel for analysis.
