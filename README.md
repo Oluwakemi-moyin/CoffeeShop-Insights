@@ -35,6 +35,8 @@
 - Created my dashboard and added slicers: Roast type, Date, Loyalty card and Size
 
 ## Dashboard
+<img width="519" height="299" alt="Dashboard" src="https://github.com/user-attachments/assets/1b7107fc-064c-4f7f-a5d3-dabd7065a78d" />
+
 
 ## Key Findings/Insights: 
 ### Sales trend by Coffee type
@@ -43,7 +45,8 @@
 - When the Coffee shop started selling in Year 2019, sales were initially fair, but reduced further in 2020 by $69.72. Sales rose in the following year 2021 to $13,766.11 which was about 13.60% increase as compared to the previous year. However in 2022, Total Sales      dropped to $7,063.44 which is a 48.68% decrease from the previous year.
 - In 2019, Excelsa coffee had the highest Total sales of $3,481.46 and Robusta with the lowest sales of $2,401.07. In 2020, Excelsa coffee still maintained the status quo of highest total sales with a value of $3,663.41 and Robusta also had the lowest total sales of     $2,493.27.
 - In 2021, Arabica coffee brought in the highest total sales of $4,045.63 and Robusta still brought in the lowest total sales. Sales was incredibly low in 2022 with Liberica taking the lead with the highest total sales of $2,234.92 while Arabica had the lowest total     sales.
-  
+<img width="358" height="215" alt="Sales trends by Year" src="https://github.com/user-attachments/assets/0420f2aa-5a69-4ad6-ada4-146978a50ac1" />
+
 
 ### Total Sales by Country
 - The coffee shop operates in 3 countries: The United States, The United Kingdom and Ireland.
@@ -68,6 +71,8 @@
 ### Monthly sales trend
 - The months of June, March, April, and February have the highest sales values of $4,843.04, $4,795.78, $4,224.60 and $4,138.21 respectively.
 - August has the lowest overall sales of $2,326.90.
+<img width="358" height="215" alt="sales trends by month" src="https://github.com/user-attachments/assets/dc90913e-dae1-4545-8d34-7cde3f4b345b" />
+
 
 ## Recommendations: 
 Based on the data, these are my suggestions for the business.
