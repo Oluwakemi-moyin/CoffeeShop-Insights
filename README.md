@@ -39,7 +39,9 @@
 - Created my dashboard and added slicers: Roast type, Date, Loyalty card and Size
 
 ## Dashboard
-<img width="519" height="299" alt="Dashboard" src="https://github.com/user-attachments/assets/1b7107fc-064c-4f7f-a5d3-dabd7065a78d" />
+<img width="519" height="324" alt="Dashboard2" src="https://github.com/user-attachments/assets/a95f4418-61f1-498f-acff-4d47718c935d" />
+
+
 
 
 ## Key Findings/Insights: 
